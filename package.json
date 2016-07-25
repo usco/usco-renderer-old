@@ -1,0 +1,24 @@
+{
+  "name": "usco-renderer",
+  "version": "0.0.1",
+  "description": "WebGL renderer for usco/ jam project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usco/usco-renderer.git"
+  },
+  "keywords": [
+    "webGL",
+    "regl",
+    "renderer"
+  ],
+  "author": "Mark 'kaosat-dev' Moissette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usco/usco-renderer/issues"
+  },
+  "homepage": "https://github.com/usco/usco-renderer#readme"
+}
