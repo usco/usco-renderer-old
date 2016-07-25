@@ -2,7 +2,8 @@
 Renderer for Jam & co
 Works on (or should !) on :
 - mobile
--
+- desktop (browser)
+- server side 
 
 ## How?
 
